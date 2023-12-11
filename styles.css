@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  #game-container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
+  input {
+    width: 80%;
+    padding: 8px;
+    margin-top: 10px;
+  }
+  
+  button {
+    padding: 8px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
+  #message {
+    font-weight: bold;
+    color: blue;
+    margin-top: 10px;
+  }
